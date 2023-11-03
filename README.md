@@ -1,0 +1,2 @@
+# binar
+latihan binar
